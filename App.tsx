@@ -52,7 +52,7 @@ function App(): JSX.Element {
   return (
     <SafeAreaView style={backgroundStyle}>
       <View>
-        <Section title="Test">Even better</Section>
+        <Section title="Test">Tremendous</Section>
       </View>
     </SafeAreaView>
   );
